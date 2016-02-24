@@ -12,10 +12,10 @@ This is a simple reader to consume RSS feeds.
 
 Feeds | Entries
 --- | ---
-ID | ID
+ID>> | ID
 name | title
 url | content
 description | url
 . | author
 . | published
-. | feed_id
+. | >>feed_id
